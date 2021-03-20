@@ -1,0 +1,27 @@
+{
+  "name": "algebra",
+  "version": "1.0.0",
+  "description": "algebra (abstractly)",
+  "priveate": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JosephSullivan256/algebra.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JosephSullivan256/algebra/issues"
+  },
+  "homepage": "https://github.com/JosephSullivan256/algebra#readme",
+  "devDependencies": {
+    "ts-loader": "^8.0.18",
+    "typescript": "^4.2.3",
+    "webpack": "^5.27.1",
+    "webpack-cli": "^4.5.0"
+  }
+}
